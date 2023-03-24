@@ -43,6 +43,7 @@ display: block;
 .header{
     padding-top: 24px;
     padding-bottom: 24px;
+        border: 1px solid #E7E9FC;
 }
 
 .header-nav{
